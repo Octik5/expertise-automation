@@ -31,3 +31,8 @@
 3. Установите зависимости:
    ```bash
    pip install -r requirements.txt
+4. Создайте базу данных MySQL с именем expertise_db_db и выполните скрипт database/schema.sql (файл нужно добавить в репозиторий, см. приложение 1 диплома).
+5. Скопируйте config_example.py в config.py и укажите свои параметры подключения.
+6. Запустите программу:
+   ```bash
+   python main.py
