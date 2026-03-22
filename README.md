@@ -36,3 +36,5 @@
 6. Запустите программу:
    ```bash
    python mainn.py
+## Скриншоты
+https://yapx.ru/album/dNoRv
