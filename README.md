@@ -35,4 +35,4 @@
 5. Скопируйте config_example.py в config.py и укажите свои параметры подключения.
 6. Запустите программу:
    ```bash
-   python main.py
+   python mainn.py
