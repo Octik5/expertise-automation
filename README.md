@@ -23,3 +23,11 @@
    ```bash
    git clone https://github.com/Octik5/expertise-automation.git
    cd expertise-automation
+2. Создайте виртуальное окружение (рекомендуется)
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # Linux/Mac
+   venv\Scripts\activate      # Windows
+3. Установите зависимости:
+   ```bash
+   pip install -r requirements.txt
