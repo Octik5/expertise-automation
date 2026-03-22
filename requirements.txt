@@ -1,0 +1,14 @@
+charset-normalizer==3.4.4
+colorama==0.4.6
+docx2pdf==0.1.8
+docxtpl==0.20.2
+Jinja2==3.1.6
+lxml==6.0.2
+MarkupSafe==3.0.3
+mysql-connector-python==9.6.0
+pillow==12.1.1
+python-docx==1.2.0
+pywin32==311
+reportlab==4.4.10
+tqdm==4.67.3
+typing_extensions==4.15.0
